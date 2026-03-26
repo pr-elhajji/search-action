@@ -1,4 +1,4 @@
-# Search-action
+# Search-action, first push
 
 <p align="center">
     <img src="https://img.shields.io/github/license/your-username/education-research-guide?style=flat-square" alt="Licence MIT" />
@@ -7,25 +7,21 @@
     <img src="https://img.shields.io/github/v/release/your-username/education-research-guide?style=flat-square" alt="Dernière version" />
 </p>
 
-
 # 🌍 Education Research Guide
 
 <p align="center">
     <img src="docs/demo-screenshot.png" alt="Aperçu du site" width="600" />
 </p>
 
-
-
 **Education Research Guide** est une plateforme open source interactive pour apprendre, pratiquer et enseigner la méthodologie de recherche action en éducation.
 
 Pensée pour :
+
 - **Étudiants** (futurs enseignants, conseillers d'orientation, éducateurs...)
 - **Enseignants & Formateurs**
 - **Chercheurs en éducation**
 
 Le guide propose un parcours progressif, des outils interactifs, et des ressources pédagogiques pour rendre la recherche accessible à tous.
-
-
 
 🔗 **Démo en ligne** : [Accéder au site](https://pr-elhajji.github.io/search-action/)
 
@@ -68,12 +64,12 @@ Le guide propose un parcours progressif, des outils interactifs, et des ressourc
 
 ## 🚀 Fonctionnalités
 
-- 📖 **Parcours structuré** : phases de la recherche (Conceptuelle → Diffusion)  
-- ✅ **Checklists interactives** pour chaque étape  
-- 🎯 **Mini-QCM** pour auto-évaluation  
-- 📊 **Ressources pédagogiques** (protocoles, consentements, grilles, exemples)  
-- 🖨️ Export PDF du guide  
-- ♿ **Accessibilité renforcée** : ARIA, navigation clavier, contraste, transcripts  
+- 📖 **Parcours structuré** : phases de la recherche (Conceptuelle → Diffusion)
+- ✅ **Checklists interactives** pour chaque étape
+- 🎯 **Mini-QCM** pour auto-évaluation
+- 📊 **Ressources pédagogiques** (protocoles, consentements, grilles, exemples)
+- 🖨️ Export PDF du guide
+- ♿ **Accessibilité renforcée** : ARIA, navigation clavier, contraste, transcripts
 
 ---
 
@@ -92,22 +88,26 @@ src/
 ## ⚙️ Installation
 
 ### Cloner le dépôt
+
 ```bash
 git clone https://github.com/pr-elhajji/search-action.git
 cd search-action
 ```
 
 ### Installer les dépendances
+
 ```bash
 npm install
 ```
 
 ### Lancer en local
+
 ```bash
 npm run dev
 ```
 
 ### Build pour production
+
 ```bash
 npm run build
 ```
@@ -150,6 +150,7 @@ Les contributions sont les bienvenues ! 🎉
 4. Poussez la branche et ouvrez une Pull Request
 
 **Idées de contributions :**
+
 - Corriger des bugs
 - Améliorer l’accessibilité
 - Ajouter des exemples ou ressources
@@ -162,13 +163,14 @@ Merci de consulter le fichier [CONTRIBUTING.md](CONTRIBUTING.md) si disponible, 
 ## 📜 Licence
 
 MIT License
- – libre, gratuit et ouvert à tous.
+– libre, gratuit et ouvert à tous.
 
 ---
 
 ## 🙌 Crédits
 
 Inspiré par :
+
 - Guides méthodologiques en éducation (recherches en sciences de l'éducation, sociologie, pédagogie)
 - Supports pédagogiques universitaires (ESPE, Inspé, Sciences de l'éducation)
 - Communauté open source
@@ -197,5 +199,3 @@ Transformer les pratiques pédagogiques par l'analyse réflexive
 Former les futurs enseignants et formateurs à la rigueur scientifique
 
 Avec ce guide, chacun peut apprendre, pratiquer et partager ses connaissances.
-
-
